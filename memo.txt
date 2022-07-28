@@ -1,0 +1,1 @@
+https://laid-back-scientist.com/dynamodb-local
