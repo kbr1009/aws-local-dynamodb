@@ -1,1 +1,5 @@
 https://laid-back-scientist.com/dynamodb-local
+
+https://hub.docker.com/r/aaronshaf/dynamodb-admin
+
+https://hub.docker.com/r/amazon/dynamodb-local
